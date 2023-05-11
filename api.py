@@ -1,6 +1,6 @@
 import requests
 
-api_key = "5ee7cd5080fec3eded157d8010b377f6"  # API key를 입력하세요.
+api_key = ""  # API key를 입력하세요.
 
 def getMovieList():
     datas = []
