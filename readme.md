@@ -16,8 +16,10 @@ But we first have to make network of Actors to find Actor-Actor relationships.th
 Because we define the relationship ‘friend’ related with Movie.
 
 - So I made graph like this 
+![image](https://github.com/ysh4296/InSSaActor/assets/29995264/3ce86777-1990-495e-bd1e-4e5a08a90e91)
 
 - And we find Actor A and B as Friend in graph like below
+![image](https://github.com/ysh4296/InSSaActor/assets/29995264/1554f27a-d32d-4c12-aacc-8bce32294fbf)
 
 - then we can find Actors friend by finding which movie he participated.
 
@@ -27,7 +29,10 @@ Because we define the relationship ‘friend’ related with Movie.
 - I used the Open API from “영화진흥위원회”
 
 - First I used the list of movies to get movieCD number.
+![image](https://github.com/ysh4296/InSSaActor/assets/29995264/6983cfec-8e1f-4f3b-8ad6-fe7addcc9365)
 
 - Then I find Actors with movies
+![image](https://github.com/ysh4296/InSSaActor/assets/29995264/7e708de7-16db-4d11-8f5e-239cb1a3e6dc)
 
 - Now in 100 Korean movies I found 김규진 is the most ‘인싸’ Actor!
+![image](https://github.com/ysh4296/InSSaActor/assets/29995264/302094ad-a78d-474a-be8a-fa0e96f84f16)
