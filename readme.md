@@ -35,7 +35,8 @@ Because we define the relationship ‘friend’ related with Movie.
 ![image](https://github.com/ysh4296/InSSaActor/assets/29995264/7e708de7-16db-4d11-8f5e-239cb1a3e6dc)
 
 - Now in 100 Korean movies I found 김상욱 is the most ‘인싸’ Actor!
-![image](https://github.com/ysh4296/InSSaActor/assets/29995264/302094ad-a78d-474a-be8a-fa0e96f84f16)
+<img width="410" alt="image" src="https://github.com/ysh4296/InSSaActor/assets/29995264/8a95d8cd-8351-4612-b88e-97e4f564a2a4">
+
 
 ### 4. who is he?  
 
