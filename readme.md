@@ -40,5 +40,9 @@ Because we define the relationship ‘friend’ related with Movie.
 ### 4. who is he?  
 
 - This is his profile
+<img width="625" alt="image" src="https://github.com/ysh4296/InSSaActor/assets/29995264/2ff78e76-02c8-4bda-88a9-9976e30d5a8e">
+
+- And he participated movies like...
+<img width="622" alt="image" src="https://github.com/ysh4296/InSSaActor/assets/29995264/14ca741d-b729-47df-b84b-940786a740f9">
 
 - And he participated movies like...
