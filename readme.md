@@ -34,5 +34,11 @@ Because we define the relationship ‘friend’ related with Movie.
 - Then I find Actors with movies
 ![image](https://github.com/ysh4296/InSSaActor/assets/29995264/7e708de7-16db-4d11-8f5e-239cb1a3e6dc)
 
-- Now in 100 Korean movies I found 김규진 is the most ‘인싸’ Actor!
+- Now in 100 Korean movies I found 김상욱 is the most ‘인싸’ Actor!
 ![image](https://github.com/ysh4296/InSSaActor/assets/29995264/302094ad-a78d-474a-be8a-fa0e96f84f16)
+
+### 4. who is he?  
+
+- This is his profile
+
+- And he participated movies like...
